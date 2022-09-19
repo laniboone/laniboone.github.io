@@ -1,15 +1,13 @@
-body 
+body, a, nav
 {
-    background-color: lightblue;
+    background-color:black;
+    color:bisque;
 }
 
-h2
+h1, h3
 {
-    font-size: large;
-}
-  
-h1, h3 
-{
-    color: navy;
+    text-align: center;
+    font-size: 50px;
+    color:goldenrod;
     margin-left: 20px;
 }
